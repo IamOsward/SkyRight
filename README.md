@@ -1,2 +1,2 @@
-# SkyRight01
+# SkyRight
 An E-book website

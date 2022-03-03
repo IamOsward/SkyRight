@@ -1,0 +1,138 @@
+/* Homepage */
+
+.display{
+    background-color: darkblue;
+}
+
+#display01{
+ padding-left: 200px;
+ padding-top: 30px;
+}
+
+#Genres01
+{
+ text-align: center;
+ padding-top: 20px;
+}
+
+.FirstSet
+{
+ width: 15%;
+ display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+#Genres02
+{
+ text-align: center;
+ padding-top: 20px;
+}
+
+.SecondSet
+{
+ width: 15%;
+ display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+#Genres03
+{
+ text-align: center;
+ padding-top: 20px;
+}
+
+.ThirdSet
+{
+ width: 15%;
+ display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.down{
+    padding-left: 750px;
+    text-align: end;
+    
+}
+
+#left2{
+    padding-top: 20px;
+    margin-right: 60px;
+}
+
+.vector{
+   
+    display: inline-block;
+     text-align: right;
+    padding: 5px;
+    
+}
+
+#left3{
+    padding-top: 5px;
+    margin-right: 3px;
+}
+
+.envelope{
+    display: inline-block;
+     text-align: right;
+    padding: 5px;
+    
+}
+
+#foter
+{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+/* library */
+
+.library01
+{
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
+.FirstSet01
+{
+    width: 15px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-right: 60px;
+    padding: 20px;
+    width: 183px;
+}
+
+.SecondSet01
+{
+    width: 15px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-right: 60px;
+    padding: 20px;
+    width: 183px;
+}
+
+.ThirdSet01
+{
+    width: 15px;
+    display: inline-block;
+    margin-left: 75px;
+    margin-right: 60px;
+    padding: 20px;
+    width: 183px;
+}
+
+.aboutit{
+    margin-left: 75px;
+    margin-right: 60px;
+    padding: 20px;
+}
